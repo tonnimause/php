@@ -12,4 +12,11 @@
         ?>
     </h1>
 </body>
+<footer>
+        <p>
+                <?php
+                echo 'parapumram'
+                ?>
+        </p>
+</footer>
 </html>
